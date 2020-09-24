@@ -1,4 +1,4 @@
-Regression Exercises Completed by Bethany Thompson in the Darden Codeup Cohort
+Regression Exercises Completed by Bethany Thompson in the Darden Codeup Cohort  
 In this module:
 - analyze, visualize and model various labeled datasets that are being stored in SQL
 - have continuous target variables do supervised machine learning using regression on structured data
